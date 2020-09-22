@@ -1,2 +1,2 @@
-Hello, practicing  again!!
-I am coming from feature branch
+Hello Friends!! Hve you been practicing a lot lately!!
+I am working on this cool feature and commiting changes to my branch called feature, pls take a look
